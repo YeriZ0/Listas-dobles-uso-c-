@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1725404810 source:d:\universidad uso\ciclo iv\programación iii\clase 6 g01 - fredy alexander campos figueroa\s6g01\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Trabajador.h"
+	"Lista.h"
+	"Nodo.h"
+
+1725405166 d:\universidad uso\ciclo iv\programación iii\clase 6 g01 - fredy alexander campos figueroa\s6g01\trabajador.h
+	<string.h>
+
+1725403511 d:\universidad uso\ciclo iv\programación iii\clase 6 g01 - fredy alexander campos figueroa\s6g01\lista.h
+	"Nodo.h"
+
+1725316011 d:\universidad uso\ciclo iv\programación iii\clase 6 g01 - fredy alexander campos figueroa\s6g01\nodo.h
+	"Trabajador.h"
+
